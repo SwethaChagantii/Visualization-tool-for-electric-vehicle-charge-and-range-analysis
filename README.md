@@ -16,6 +16,4 @@ This repository hosts a powerful visualization tool designed for analyzing elect
 - [Electric Vehicle Analytics Dashboard](https://public.tableau.com/views/Electriccarsanalyticsdashboard/ELECTRICVEHICLEANALYTICDASHBOARD?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 - [Story of Electric Vehicles](https://public.tableau.com/views/STORY_17141461517460/STORYOFELECTRICVEHICLES?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
-## Video Demo
 
-Watch a demo of the Electric Vehicle Analytics Dashboard [here](https://video.com/views/17141461517460/STORYOFELECTRICVEHICLES).
