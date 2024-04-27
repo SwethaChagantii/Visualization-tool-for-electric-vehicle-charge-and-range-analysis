@@ -1,19 +1,25 @@
-# Electric Vehicle Charge and Range Analysis Visualization Tool
+# E-CarStart - Electric Cars Analytics
+The Electric Vehicle (EV) is not new, but it has been receiving significantly more attention in recent years. Advances in both EV analytics and battery technologies have led to increased automotive market share.The modern mechatronic vehicle marries electrical storage and propulsion systems with electronic sensors, controls, and actuators, integrated closely with software, secure data transfer, and data analysis, to form a comprehensive transportation solution. Advances in all these areas have contributed to the overall rise of EV’s, but the common thread that runs through all these elements is data analytics.
 
-This repository hosts a powerful visualization tool designed for analyzing electric vehicle (EV) charge and range data. The tool offers comprehensive insights into EV charging patterns, energy consumption, and driving range estimation, empowering both EV owners and infrastructure planners.
+## Electric Vehicle Charge and Range Analysis Visualization Tool
+This repository hosts a powerful visualization tool designed for analyzing electric vehicle (EV) charge and range data. E-Cart Start is a complete analytics tool for electric vehiles all over the world.The tool offers comprehensive insights into EV charging patterns, energy consumption, and driving range estimation, empowering both EV owners and infrastructure planners.
+
+## Video Demonstration
+
+
 
 ## Features
 
-- **Interactive Visualization**: Visualize charging station locations, energy consumption patterns, and driving range estimates on an interactive map interface.
-- **Real-time Data Integration**: Integrate real-time data sources to provide up-to-date information on charging station availability and energy pricing.
-- **Range Prediction**: Predict driving range based on various factors such as terrain, weather conditions, and driving habits.
-- **Optimal Route Planning**: Calculate and visualize optimal charging routes for EV trips to maximize range and minimize charging time.
-- **Customizable Analysis**: Customize analysis parameters to suit specific user preferences and requirements.
-- **Scalable Architecture**: Built on a scalable architecture to handle large datasets and accommodate future expansions.
+- **Current Stats**: Analyze trends in the EV market, including sales figures, adoption rates, and market share.
+- **Get to Know EVs More**: Learn about different types of EVs, their benefits, and environmental impact.
+- **Charging Stations**: Find information about the locations and availability of charging stations, including different charging speeds and compatibility.
+- **Top Performing Brands**: Discover the top-performing EV brands based on sales volume, market share, and customer satisfaction.
+- **Different Brands in India**: Explore electric vehicle brands operating in the Indian market, their vehicle offerings, and market presence.
+- **Different Brands Globally**: Compare electric vehicle brands from around the world and gain insights into regional differences in EV adoption.
 
 ## Dashboard Links
 
-- [Electric Vehicle Analytics Dashboard](https://public.tableau.com/views/Electriccarsanalyticsdashboard/ELECTRICVEHICLEANALYTICDASHBOARD?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+- [E-Car Start Analytics Dashboard](https://public.tableau.com/views/Electriccarsanalyticsdashboard/ELECTRICVEHICLEANALYTICDASHBOARD?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 - [Story of Electric Vehicles](https://public.tableau.com/views/STORY_17141461517460/STORYOFELECTRICVEHICLES?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 
