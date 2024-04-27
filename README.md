@@ -6,7 +6,7 @@ This repository hosts a powerful visualization tool designed for analyzing elect
 
 ## Video Demonstration
 
-https://drive.google.com/file/d/1L3EuEV3prDGc54g_KX_XyOtHb81pAXY2/view?usp=drive_link
+You can view a demo of the project [here](https://drive.google.com/file/d/1L3EuEV3prDGc54g_KX_XyOtHb81pAXY2/view?usp=drive_link)
 
 ## Features
 
